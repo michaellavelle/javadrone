@@ -10,8 +10,8 @@
 	<description>Java API and demo programs to control Parrot's AR.Drone</description>
 	<modules>
 		<module>javadrone-api</module>
-		<module>javadrone-utils</module>
+<!--		<module>javadrone-utils</module>
 		<module>controltower</module>
-		<module>controltower-android</module>
+		<module>controltower-android</module> -->
 	</modules>
 </project>
