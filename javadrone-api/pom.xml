@@ -19,6 +19,12 @@
 	    <distribution>repo</distribution>  
 	  </license>
 	</licenses>
+	<repositories>
+		<repository>
+                        <id>opensourceagility-snapshots</id>
+                        <url>http://repo.opensourceagility.com/snapshots</url>
+                </repository>
+            </repositories>
     <dependencies>
         <dependency>
             <groupId>com.twilight</groupId>
